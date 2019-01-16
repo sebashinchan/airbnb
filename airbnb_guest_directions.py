@@ -5,7 +5,7 @@
 # Airbnb hosts benefit from a consistent, accurate, and fast method of generating directions to their accomodation.
 # Airbnb guests benefit from a consistent experience, and a reduced likelyhood of getting lost on their way to the accomodation.
 
-# The output of this script is an JPG file that contains a series of streetview images from every step of the journey 
+# The output of this script is a JPG file that contains a series of streetview images from every step of the journey 
 # between two points (based on Google Maps Directions API), as well as a text overlay that further describe the 
 # route.
 
