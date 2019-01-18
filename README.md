@@ -2,7 +2,7 @@
 
 Hello there! I have written a small Python script to generate walking directions (with pictures!) for Airbnb guests that can used offline.
 
-This script creates a visual guide with walking directions from address A to address B (both supplied by the user). I envisioned this as a prototype of a tool that Airbnb hosts could use to generate directions for their guests. Airbnb hosts benefit from a fast and reliable method of generating directions to their accomodation. Airbnb guests benefit from a consistent experience, and a reduced likelihood of getting lost on the way to their accomodation.
+This script creates a visual guide with walking directions from address A to address B (both supplied by the user). I envisioned this as a prototype of a tool that Airbnb hosts could use to generate directions for their guests. Airbnb hosts benefit from a fast and reliable method of generating directions to their accomodation. Airbnb guests benefit from a consistent experience, and a reduced likelihood of getting lost on the way to their accommodation.
 
 The output of this script is a JPG file that contains a series of streetview images from every step of the journey 
 between two points (based on Google Maps Directions API), as well as text overlays that further describe the 
