@@ -9,4 +9,4 @@ route.
 
 I wrote this script after a trip to Japan, where an Airbnb host had sent me a PDF containing a very confusing set of directions. Sparse images and crudely drawn arrows (using MS Paint!) made it hard to follow, especially in a foreign country. I began to think of an automated way of generating directions that could be used offline, since phone data is not always available!
 
-https://photos.app.goo.gl/oz1NX35jfQ2Ak96K9
+![alt text](https://lh3.googleusercontent.com/kB7xTWQ1qRpCrCzXZuN8jDtChc-D93chKIL6XehTluy5fbV16qk7RhK_wTG9EMGdMpbkCFE5bug-j-ZPvws9sqpFSqXNVeSXWXYPf7pLxXBjAHF0yxFS68jdjYVjUAPKk7HAiQezAiPWjKSwm8ZB4IZu8HBEN0TyXEL4SJtZZBZjMTeZCo2VOXDP7R3wd3iF5S5vyy_gReGJkPJQuNxW9KIMJiYomO4w5fN4UJ-DFtRVKfJwU10oPC98IWYb1z6fKa60NNPWjapuMl4PrUrMYiFQoajJLwxaSg72CIrCy5AAlnRJg__h19FE97lxVthYh0JIZdnLxHpLXAHsjfxD_E59gGfPyLeiNvNBfuz7k-FCqM-p7UYtuvdO8kwNnLGB7xcCOjQfwgJFhlZOwiiWa0bXuCVmWiKfGXmN61MZswQ7iJBK5E2nKwDicKo5813kbnf_ITTwuW-54cVO7k7ZmC_M7fFcBOOl_oyjpjIby2XsxXVOFjW6KYB2J8yMM3SQtkZqloUtsQ65F2biWaK0QtogXILWhMbLp1lPawUccFduieXs4Jn8MArW-JtE9FaMSf-n5us-7i1yvFQ2HGlghQ3raOptLPv6mvZ4BFq91HcykgNCC_VIhOdVoft46r0y42LH8VOuxuqwWbNu0x1kAgb7=w206-h1236-no)
