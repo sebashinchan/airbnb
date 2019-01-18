@@ -12,4 +12,4 @@ I wrote this script after a trip to Japan, where an Airbnb host had sent me a PD
 
 Below is a sample of the output of this script. The inputs were two addresses, 33 Bloor St. and 35 Hayden St. The result is a continuous image complete with text directions at each turn.
 
-![sample image](https://lh3.googleusercontent.com/kB7xTWQ1qRpCrCzXZuN8jDtChc-D93chKIL6XehTluy5fbV16qk7RhK_wTG9EMGdMpbkCFE5bug-j-ZPvws9sqpFSqXNVeSXWXYPf7pLxXBjAHF0yxFS68jdjYVjUAPKk7HAiQezAiPWjKSwm8ZB4IZu8HBEN0TyXEL4SJtZZBZjMTeZCo2VOXDP7R3wd3iF5S5vyy_gReGJkPJQuNxW9KIMJiYomO4w5fN4UJ-DFtRVKfJwU10oPC98IWYb1z6fKa60NNPWjapuMl4PrUrMYiFQoajJLwxaSg72CIrCy5AAlnRJg__h19FE97lxVthYh0JIZdnLxHpLXAHsjfxD_E59gGfPyLeiNvNBfuz7k-FCqM-p7UYtuvdO8kwNnLGB7xcCOjQfwgJFhlZOwiiWa0bXuCVmWiKfGXmN61MZswQ7iJBK5E2nKwDicKo5813kbnf_ITTwuW-54cVO7k7ZmC_M7fFcBOOl_oyjpjIby2XsxXVOFjW6KYB2J8yMM3SQtkZqloUtsQ65F2biWaK0QtogXILWhMbLp1lPawUccFduieXs4Jn8MArW-JtE9FaMSf-n5us-7i1yvFQ2HGlghQ3raOptLPv6mvZ4BFq91HcykgNCC_VIhOdVoft46r0y42LH8VOuxuqwWbNu0x1kAgb7=w206-h1236-no)
+![sample image](https://i.imgur.com/pzVSNBM.jpg)
