@@ -9,4 +9,4 @@ route.
 
 I wrote this script after a trip to Japan, where an Airbnb host had sent me a PDF containing a very confusing set of directions. Sparse images and crudely drawn arrows (using MS Paint!) made it hard to follow, especially in a foreign country. I began to think of an automated way of generating directions that could be used offline, since phone data is not always available!
 
-![Sample Output](https://photos.app.goo.gl/Vm7MFN8B1gPcDmSUA)
+https://photos.app.goo.gl/oz1NX35jfQ2Ak96K9
