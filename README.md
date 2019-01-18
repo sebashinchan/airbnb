@@ -10,6 +10,6 @@ route.
 
 I wrote this script after a trip to Japan, where an Airbnb host had sent me a PDF containing a very confusing set of directions. Sparse images and crudely drawn arrows (using MS Paint!) made it hard to follow, especially in a foreign country. I began to think of an automated way of generating directions that could be used offline, since phone data is not always available!
 
-Below is a sample of the output of this script. The inputs were two addresses, 33 Bloor St. and 35 Hayden St. The result is a continuous image complete with text directions at each turn.
+Below is a sample of the output of this script. The starting input was Bay and Bloor, and the destination is 35 Hayden St. (located in Toronto). The result is a continuous image complete with text directions at each turn.
 
 ![sample image](https://i.imgur.com/pzVSNBM.jpg)
